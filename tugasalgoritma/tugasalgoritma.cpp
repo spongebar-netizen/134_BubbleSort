@@ -15,6 +15,6 @@ void input() {
 	}
 }
 	cout << endl;
-	cout << "==========" << endl;
+	cout << "===========" << endl;
 	cout << "Masukkan Elemen Array" << endl;
-	cout << "==========" << endl;
+	cout << "===========" << endl;
