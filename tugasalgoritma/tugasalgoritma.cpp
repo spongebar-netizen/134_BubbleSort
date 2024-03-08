@@ -47,5 +47,24 @@ void display() {
 	cout << "===========" << endl;
 	cout << "element array yang telah disusun" << endl;
 	cout << "===========" << endl;
-	for (int j = 0; j < n ; j++) {
+	for (int j = 0; j < n; j++) {
+		cout << "Jumlah Data Pass = " << n - 1 << endl;
+		cout << endl;
+
+	}
 }
+
+int main() {
+
+	input();
+	bublesSortArray();
+	display();
+	system("pause");
+
+	return 0;
+}
+	
+
+
+
+
